@@ -1,1 +1,2 @@
 this is a controller file
+functionality 1.2

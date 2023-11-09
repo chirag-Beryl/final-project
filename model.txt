@@ -1,1 +1,2 @@
-model
+this is it model
+functionality 1.2
