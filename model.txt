@@ -1,2 +1,3 @@
-this is it model
+this is model file 
+functionality 1.1
 functionality 1.2

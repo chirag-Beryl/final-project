@@ -1,2 +1,6 @@
 this is a controller file
+<<<<<<< HEAD
 functionality 1.2
+=======
+functionality 1
+>>>>>>> main
