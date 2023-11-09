@@ -1,1 +1,2 @@
-model
+this is model file 
+functionality 1
